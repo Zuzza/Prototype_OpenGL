@@ -1,0 +1,6 @@
+C:\Users\james\Desktop\framework_minimal\x64\Debug\feature_complete.exe
+C:\Users\james\Desktop\framework_minimal\x64\Debug\feature_complete.pdb
+D:\C++\week5.finished\framework_minimal\x64\Debug\feature_complete.exe
+D:\C++\week5.finished\framework_minimal\x64\Debug\feature_complete.pdb
+D:\C++\week5.finished\framework_minimal\Prototype_OpenGL\x64\Debug\feature_complete.exe
+D:\C++\week5.finished\framework_minimal\Prototype_OpenGL\x64\Debug\feature_complete.pdb

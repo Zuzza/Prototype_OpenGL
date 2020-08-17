@@ -1,0 +1,32 @@
+﻿  cool_cube.cpp
+  hexagon_mesh.cpp
+  hyper_hexagon.cpp
+  input.cpp
+  my_own_triangle.cpp
+  my_rectangle.cpp
+  pyramid.cpp
+  pyramid_mesh.cpp
+  rectangle_mesh.cpp
+  right_triangle_mesh.cpp
+  textured_2D_shader_program.cpp
+  asset.cpp
+  assets.cpp
+  cube_mesh.cpp
+  engine.cpp
+  game_object.cpp
+  game_scene.cpp
+  main.cpp
+  mesh.cpp
+  scene.cpp
+  Generating Code...
+  Compiling...
+  shader.cpp
+  shader_program.cpp
+  texture.cpp
+  textured_3D_shader_program.cpp
+  textured_cube_mesh.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'D:\C++\week5.finished\framework_minimal\Prototype_OpenGL\x64\Debug\vc120.pdb'; linking object as if no debug info
+  feature_complete.vcxproj -> D:\C++\week5.finished\framework_minimal\Prototype_OpenGL\x64\Debug\feature_complete.exe
